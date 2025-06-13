@@ -1,0 +1,8 @@
+.conda/
+__pycache__
+Procfile
+_chat.txt
+setup.sh
+Whatsapp chat analysis.ipynb
+
+
