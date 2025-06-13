@@ -6,7 +6,14 @@
 A Streamlit-based web app to analyze WhatsApp chat exports. It provides detailed statistics, visualizations, and insights on message counts, word usage, media sharing, emojis, activity timelines, and user behavior.
 
 ---
+## Output Snippets from streamlit UI
 
+![Err](image/WA_analyse.png)
+![Err](image/WA_analyse_1.png)
+![Err](image/WA_analyse_2.png)
+![Err](image/WA_analyse_3.png)
+
+---
 ## Features
 
 * Upload WhatsApp chat export text file (`.txt`)
@@ -97,7 +104,7 @@ streamlit run app.py
 * Monthly timeline plots intelligently format dates to avoid overcrowding the x-axis.
 
 ---
-## Outputs
+
 
 
 
